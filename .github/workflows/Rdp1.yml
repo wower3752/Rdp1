@@ -65,7 +65,7 @@ jobs:
         Write-Output "=========================================="
         Write-Output "Address: $tunnelUrl"
         Write-Output "Username: kamel007"
-        Write-Output "Password: kamel007"
+        Write-Output "Password: Kamel@2024!"
         Write-Output "------------------------------------------"
         Write-Output "1. Open Remote Desktop (Win+R â†’ mstsc)"
         Write-Output "2. Connect to: $tunnelUrl"
